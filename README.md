@@ -1,5 +1,5 @@
 # GYDragReorderView
-#### Easy solution to achieve the drag to re-order effect.
+#### Easy solution to achieve the drag to reorder effect. Without the use of UITableView or UICollectionView.
 
 ##Demo
 ![Horizontal Align Middle Phantom](/demo-gifs/horizontal_middle_phantom.gif "Horizontal Align Middle Phantom")
